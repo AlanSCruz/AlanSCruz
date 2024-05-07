@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Alan Cruz 👋
+### Muito prazer! Eu sou o Alan 👋
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-santos-79835a306/)
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/al4n_cruz/)
